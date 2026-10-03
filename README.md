@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✦ hi, I'm Noxie ✦
+# ✦ hi ✦
 
-**Computer Engineering student**
+**I'm a Computer Engineering student**
 
 software • game development • curious about hardware ♡
 
