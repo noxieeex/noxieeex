@@ -19,7 +19,7 @@ Currently learning, experimenting, and turning ideas into actual projects ✧
 
 ### ♡ things i've worked with
 
-`C` `C++` `Python` `JavaScript` `Assembly`
+`C` `C++` `Python` `JavaScript` `HTML` `CSS` `Flask` `SQLite` `Git`
 
 ### ✦ currently exploring
 
@@ -30,8 +30,9 @@ Currently learning, experimenting, and turning ideas into actual projects ✧
 
 ### ♡ projects
 
-🪷 **Academic Journal** — academic organization and tracking application  
-🕯️ **AISSY** — experimental living-world simulation system
+🌱 **[Digital Garden](https://github.com/noxieeex/digital-garden)** — a personal project dashboard built with Flask, SQLite and JavaScript
+
+📓 **[Academic Journal](https://github.com/noxieeex/academic-journal)** — a web application for organizing subjects, papers, notes and academic resources
 
 ---
 
