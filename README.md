@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**noxieeex/noxieeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✦ hi, I'm Noxie ✦
 
-Here are some ideas to get you started:
+### computer engineering student @ UFU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+software development • game development • learning how things work under the hood
+
+♡ C • C++ • Python • JavaScript ♡
+
+---
+
+currently building little things, breaking them,
+and figuring out how to build them better ✧
+
+</div>
